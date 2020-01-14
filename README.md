@@ -12,7 +12,3 @@
 	KyutechTTICarOnto.owl：自動車の種類やセンサの情報などを定義
     KyutechTTIControlOnto.owl：制御に関するオントロジーを定義
     KyutechTTIMapOnto.owl：地図に関するオントロジーを定義
-    
-## Dependencies
-- ontology_msgs
-- rosjava
